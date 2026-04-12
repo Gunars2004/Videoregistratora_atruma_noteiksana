@@ -1,0 +1,1 @@
+Šajā github repozitorijā ir tikai kods, apmācības dati tika pievienoti tikai ļoti nelielos dauzumos, lai tiktu parādīts ar kādiem datiem modelis tika apmācīts.
